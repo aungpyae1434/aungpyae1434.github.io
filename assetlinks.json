@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.umg.library",
+    "sha256_cert_fingerprints":
+    ["6D:26:5D:20:96:F4:7C:6E:A5:3E:6F:F6:B6:B5:06:31:7E:B9:82:7F:AC:E5:09:E0:B3:29:1E:0C:6C:13:F4:37"]
+  }
+}]
